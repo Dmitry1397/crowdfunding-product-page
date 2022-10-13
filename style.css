@@ -629,7 +629,13 @@ input[type=number] {
         justify-content: center;
     }
 
+    .success {
+        margin: 100px auto;
+        width: 90%;
+    }
+    
     .product-card {
         border-radius: 10px;
     }
+    
 }
